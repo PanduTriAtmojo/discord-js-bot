@@ -4,4 +4,4 @@
 java -jar Lavalink.jar &
 
 # Start Node.js application
-node index.js
+npm start
