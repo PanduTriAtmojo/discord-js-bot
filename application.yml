@@ -6,9 +6,6 @@ spring:
     banner-mode: log
 lavalink:
   plugins:
-    # Replace VERSION with the current version as shown by the Releases tab or a long commit hash for snapshots.
-    - dependency: "dev.lavalink.youtube:youtube-plugin:1.3.0.jar"
-      snapshot: false # Set to true if you want to use a snapshot version.
     youtube:
       enabled: true # Whether this source can be used.
       allowSearch: true # Whether "ytsearch:" and "ytmsearch:" can be used.
