@@ -63,7 +63,6 @@ module.exports = {
         port: 2333,
         password: "youshallnotpass",
         id: "Local Node",
-        secure: false,
       },
     ],
   },
