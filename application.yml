@@ -8,6 +8,7 @@ lavalink:
   server:
     password: "youshallnotpass"
     sources:
+      spotify: true
       youtube: true
       bandcamp: true
       soundcloud: true
